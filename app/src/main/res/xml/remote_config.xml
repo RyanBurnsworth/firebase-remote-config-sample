@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>bgcolor</key>
+        <value>#FFFFFF</value>
+    </entry>
+    <entry>
+        <key>display_image</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>message</key>
+        <value>Welcome from the local default configuration!</value>
+    </entry>
+</defaultsMap>
